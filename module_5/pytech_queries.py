@@ -1,7 +1,7 @@
 #Jacob Breault
 #6/20/2021
 #Module 5.3 Assignment
-#Purpose: How to connect test
+#Queries file
 
 from pymongo import MongoClient
 
