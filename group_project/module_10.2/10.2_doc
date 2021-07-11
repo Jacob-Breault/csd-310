@@ -1,0 +1,21 @@
+●	Database Module 10_2
+○	Charlie Group
+■	 Jacob Breault
+■	 Cameron Frison
+■	 Skyler Millburn
+■	 Angela Perkins
+■	 William Silknitter III
+
+Outland Adventures
+
+Business rules:
+A customer can have one or more Treks. They would not be a customer without at least one trek.
+Treks have one or more records in Trek_History, the number would be dependent on the number of customers on the trek.
+Customers can have zero to many Orders, they don’t have to order gear, but can make multiple purchases if needed.
+Employees have zero to many Employ_Trek_Hist records; Not all employees will be involved in taking customers on treks, but an employee can have multiple trek records if that is their primary job.
+Inventory is a table used for keeping track of the gear, and specifically its age, as older gear could pose a hazard. 
+ 
+Rough/Original ORD
+ 
+ 
+Revised ORD:
